@@ -18,8 +18,8 @@ int present_state=0;
 int prev_state=1;
 
 //Initialize the IR sensor pins
-int sensor1 = A0;
-int sensor2 = A1;
+int sensor1 = A1;
+int sensor2 = A0;
 
 //Initialize the final speed
 float sped = 0.0;
