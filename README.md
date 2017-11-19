@@ -29,3 +29,7 @@ IR sensors are placed on either sides of the road, for detecting the speed limit
 ### Schematic Diagram
 
 ![Schematic of OSC](Schematics/objectSpeedChecker_bb.jpg)
+
+### Arduino Code
+
+Code for controlling IR sensors and displaying Speed on 16x2 LCD screen can be found [here](Object-Speed-Checker/Code/objectSpeedChecker.ino).
